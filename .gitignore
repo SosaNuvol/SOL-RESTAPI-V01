@@ -1,0 +1,26 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+
+# JavaScript / TypeScript
+node_modules/
+dist/
+coverage/
+.expo/
+
+# .NET
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+
+# Local editor and operating system files
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
